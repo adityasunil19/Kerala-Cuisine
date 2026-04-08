@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [react()],
   // Use relative paths so GitHub Pages works for both
   // project pages and user/org pages.
-  base: "./",
+  base: " /Kerala-Cuisine/ ",
 })
